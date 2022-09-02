@@ -5,10 +5,20 @@ Revisão sobre a linguagem Java
 
 * 1. [Linguagem de programação Java](01.md)
   * Paradigmas de Programação
+-- Atualmente, Java possui várias opções de paradigmas: **Orientado a Objetos**, **Programação Funcional**, **Procedural e Orientado a Eventos**.
+
   * Modelo de Tipagem de dados
-  * Modelo de construção da Linguagem  
+-- Java têm tipagem ``forte`` e ``estática``.
+
+  * Modelo de construção da Linguagem
+  -- O modelo de construção da linguagem é por ``construtor`` de uma ``classe``, depois utilizamos a palavra reservada ``new`` , vai ser criado um ``objeto``.
+
   * Estilo de código
+  -- O estilo de código ``Java`` utilizada como uma convenção, é o ``camelCase`` nos métodos e ``PascalCase`` em nomes de ``classe``.
+  -- Utiliza ``indentação`` por convenção, porém utiliza ``{}`` entre os scripts, para separar as condições.
   * Versões
+  -- Java inicialmente era construído pela empresa ``Sun Microsystems ``, onde foi padronizado a evolução das versões utilizando ``1.0, 1.1, 1.2 ...``. Como o Java era ``Open Source``, então esse padrão foi aplicado usando um pre-fixo do Kit de Desenvolvimento Java proprietário chamado ``JDK``, ficando com a frase completa: ``JDK 1.0``.
+  -- Depois da compra do ``Sun Microsystems``  pelo ``Oracle`` a nomenclatura foi trocado por ``Java SE 6``.
     * Java 1.8
       * Novas funcionalidades 
     * Java 11
