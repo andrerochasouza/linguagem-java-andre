@@ -3,7 +3,7 @@ Revisão sobre a linguagem Java
 
 ## Tópicos de Estudos
 
-* [Linguagem de programação Java](01.md)
+* 1. [Linguagem de programação Java](01.md)
   * Paradigmas de Programação
   * Modelo de Tipagem de dados
   * Modelo de construção da Linguagem  
@@ -37,7 +37,7 @@ Revisão sobre a linguagem Java
     * Principais bibliotecas/frameworks 
       * Survey da Stackoverflow 
       * Survey da Jetbrains  
-* [Hello World](02.md)
+* 2. [Hello World](02.md)
   * Estrutura mínima de um código Java
   * Nome do arquivo e Extensão
   * Nome da classe
@@ -47,7 +47,7 @@ Revisão sobre a linguagem Java
   * Delimitação de uma instrução
   * Delimitação de bloco de instruções
   * Compilação e Execução via linha de comando
-* [Tipos de Dados e operadores](03.md)
+* 3. [Tipos de Dados e operadores](03.md)
   * Tipos de Dados
   * Declarações de variáveis
   * Nomes válidos para variáveis e boas práticas 
@@ -56,20 +56,20 @@ Revisão sobre a linguagem Java
     * Operadores aritméticos
     * Operadores booleanos
   * Conversão de tipos de dados
-* [Saída de Dados](04.md)
+* 4. [Saída de Dados](04.md)
   * Método System.out.println
   * Método System.out.print
   * Exibir o valor de uma variável
   * Exibir o valor de um decimal  
-* Classe Math
+* 5. [Classe Math](05.md)
   * Definição
   * Principais operações 
-* String
+* 6. [String](06.md)
   * Concatenação de String
   * Principais operações sobre String
   * Comparação de String
   * Diferença entre String e caracter
-* Entrada de Dados
+* 7. [Entrada de Dados](07.mc)
   * Classe Scanner
     * Obter um valor inteiro
     * Obter um valor decimal
@@ -94,7 +94,7 @@ Revisão sobre a linguagem Java
     * Em diagonal 
   * Utilizar arranjos e matrizes como parâmetros de métodos 
   * Utilizar arranjos e matrizes como retorno de métodos 
-* 10. Tratamento de Exceções
+* 10. [Tratamento de Exceções](10.md)
   * Definição
   * Exceções comuns
     * Divisão por zero
@@ -105,7 +105,7 @@ Revisão sobre a linguagem Java
   * Bloco para capturar diferentes exceções 
   * Bloco finally
   * Lançar uma exceção
-* 11. Métodos estáticos
+* 11. [Métodos estáticos](11.md)
   * Estrutura de declaração de um método estático
   * Nomes válidos e boas práticas 
   * Parâmetros 
@@ -114,7 +114,7 @@ Revisão sobre a linguagem Java
     * Disponíveis na mesma classe
     * Disponíveis em outra classe/arquivo. 
   * Recursão 
-* 12. Classe
+* 12. [Classe](12.md)
   * Definição
     * Representação de classe e objeto na UML
     * Diferença entre classe e objeto
@@ -131,7 +131,7 @@ Revisão sobre a linguagem Java
     * Privado 
   * Sobrecarga de métodos
   * Sobrecarga de construtores
-* 13. Pacotes 
+* 13. [Pacotes](13.md)
   * Definição
      * Representação de pacotes na UML
   * Definição de um pacote em uma classe
@@ -140,10 +140,10 @@ Revisão sobre a linguagem Java
      * Default/Pacote  
   * Pacote default
     * Importar uma classe em um pacote default 
-* Escopo de classe e objeto
+* [Escopo de classe e objeto](14.md)
   * Definição 
   * Palavra reservada static 
-* Herança
+* [Herança](15.md)
   * Definição
      * Representação de herança na UML
   * Criação de uma classe que realiza herança 
@@ -155,20 +155,20 @@ Revisão sobre a linguagem Java
   * Palavra reservada super 
      * Encadeamento de construtor 
      * Encadeamento de método
-* Interface
+* [Interface](16.md)
   * Definição
      * Representação de interface na UML
   * Criação de uma classe que implementa uma interface
   * Sobreescrita de métodos
   * Polimorfismo
     * Conversão de tipos 
-* Classe abstrada
+* [Classe abstrada](17.md)
   * Definição
      * Representação de classe abstrata na UML
   * Criação de uma classe que extende uma classe abstrata
   * Polimorfismo
     * Conversão de tipos 
-* Coleções 
+* [Coleções](18.md)
   * Definição
   * List e Arraylist 
     * Aplicações
@@ -186,10 +186,10 @@ Revisão sobre a linguagem Java
       * Acessar elementos
       * Atualizar elementos 
       * Remover elementos 
-* Tipo Enumerado
+* [Tipo Enumerado](19.md)
   *  Definição
      * Representação de tipos enumerados na UML
-* Representação de tempo
+* [Representação de tempo](20.md)
   * Classe Date
   * Classe Calendar
   * API Date/Time Java 8
@@ -199,7 +199,7 @@ Revisão sobre a linguagem Java
     * Period
     * Duration
     * Formação de Date/Time 
-* Modificador final
+* [Modificador final](21.md)
   * Definição
     * Representação de final no diagrama UML 
   * Modificador final em uma variável
@@ -210,17 +210,17 @@ Revisão sobre a linguagem Java
     * Objeto 
   * Modificador final em um método
   * Modificador final em uma classe
-* Objeto imutável
+* [Objeto imutável](22.md)
   * Definição
   * Aplicações
   * Como criar um objeto imutável
   * Como modificar um objeto imutável 
-* Tipos Genéricos
+* [Tipos Genéricos](23.md)
   * Definição
      * Representação de tipos genéricos na UML
   * Criação de classes com tipos genéricos
   * Inicialização de objetos com tipos genéricos  
-* Testes Unitários
+* [Testes Unitários](24.md)
   * TDD
   * JUnit
     * Adicionar JUnit no projeto Java
@@ -230,7 +230,7 @@ Revisão sobre a linguagem Java
   * Teste assertArrayEquals  
   * Teste fail
   * Teste capturar uma exception
-* JDBC
+* [JDBC](25.md)
   * Definição
   * Driver de conexão 
   * Como adicionar o driver de conexão no projeto Java
